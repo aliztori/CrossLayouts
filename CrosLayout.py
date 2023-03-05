@@ -7,7 +7,7 @@ def Paste(): hotkey('ctrl', 'v')
 
 def CrosLayout():
 	
-	JSONPATH = "T:/Programming/AutoHotkey/2.0/Support Files/CrossLayout.Json"
+	JSONPATH = 'CrossLayout.Json'
 	with open(JSONPATH, 'r', encoding='utf-8-sig') as Jf:
 		txt = Jf.read()
 		
