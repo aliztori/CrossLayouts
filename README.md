@@ -1,5 +1,5 @@
 # CrossLayout
------------------
+
 #### Maybe you are typing with your keyboard But forget to check that the input language of the system is not the language you are typing;
 
 #### At this moment, the smoke rises from your head and you become angry But don't worry, this program can solve your problem Just put the file like I made next to the program and run the program
